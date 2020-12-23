@@ -1,0 +1,48 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    
+  
+}
+
+form{
+    margin-top: 100px;
+    margin-left: 40%;
+    height: 400px;
+    width: 300px;
+    background-color: rgb(1, 102, 197);
+}
+
+label{
+
+    margin-left: 110px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+
+}
+
+input{
+    padding: 10px;
+    padding-right: 20px;
+    margin-left: 40px;
+    font-family: cursive;
+    
+   
+}
+
+.submit{
+
+    margin-left: 30%;
+    padding: 15px 30px;
+    background-color: rgba(40, 175, 62, 0.842);
+    border: none;
+    border-radius: 20px;
+
+}
